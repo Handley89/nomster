@@ -39,7 +39,7 @@ gem 'jquery-rails'
 gem 'will_paginate', '~> 3.1', '>= 3.1.6'
 gem 'geocoder'
 gem 'figaro'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 gem 'fog-aws'
 
 group :development, :test do
